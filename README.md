@@ -54,11 +54,11 @@ Toda nueva funcionalidad se desarrolla en ramas separadas:
 
 **Convención para los compromisos:**
 
-**feat**:para nuevas funcionalidades.
+**feat**: para nuevas funcionalidades.
 
-**fix:**para correcciones de errores.
+**fix**: para correcciones de errores.
 
-**docs:**para cambios en documentación.
+**docs**: para cambios en documentación.
 
 Ejemplo:
 
