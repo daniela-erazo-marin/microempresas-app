@@ -1,4 +1,3 @@
-# microempresas-app
 # MicroempresasApp 📦
 
 Aplicación integral para la gestión de microempresas en Guadalajara de Buga, que incluye control de inventario, ventas, contabilidad básica y generación de informes normativos para la DIAN.
