@@ -1,10 +1,10 @@
 # microempresas-app
-#MicroempresasApp 📦
+# MicroempresasApp 📦
 
 Aplicación integral para la gestión de microempresas en Guadalajara de Buga, que incluye control de inventario, ventas, contabilidad básica y generación de informes normativos para la DIAN.
 
 
-#Descripción del proyecto **✅**
+# Descripción del proyecto **✅**
 
 MicroempresasApp es una solución integral diseñada para optimizar la administración de microempresas, ofreciendo herramientas para:
 
@@ -17,7 +17,7 @@ MicroempresasApp es una solución integral diseñada para optimizar la administr
 **Objetivo:** Digitalizar procesos operativos y contables para mejorar la competitividad de las microempresas en un entorno cada vez más digital.
 
 
-#Características principales 📌
+# Características principales 📌
 
 ✅ Gestión de ventas en tiempo real.
 
@@ -30,7 +30,7 @@ MicroempresasApp es una solución integral diseñada para optimizar la administr
 ✅ Exportación a Excel y facturación electrónica.
 
 
-#Flujo de Trabajo
+# Flujo de Trabajo
 
 Este proyecto sigue la metodología GitHub Flow :
 
@@ -48,7 +48,7 @@ Toda nueva funcionalidad se desarrolla en ramas separadas:
 
 
 
-#Reglas de Colaboración 📜
+# Reglas de Colaboración 📜
 
 **Rama principal ( main) protegida:** no se permiten commits directos.
 
@@ -68,13 +68,13 @@ feat: agregar módulo de reportes financieros
 fix: corregir error en validación de usuario
 docs: actualizar instrucciones de instalación
 
-#Instalación y configuración ✅
+# Instalación y configuración ✅
 1. Clonar el repositorio
 
 git clone https://github.com/daniela-erazo-marin/microempresas-app.git
 cd microempresas-app
 
-#Lista de verificación de Código (para PR) ✅
+# Lista de verificación de Código (para PR) ✅
 
  - Código cumple convenciones del lenguaje.
 
