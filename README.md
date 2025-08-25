@@ -35,8 +35,7 @@ Este proyecto sigue la metodología GitHub Flow :
 
 Toda nueva funcionalidad se desarrolla en ramas separadas:
 
-**feature/nombre-funcionalidad
-**
+**feature/nombre-funcionalidad**
 
 - Cada cambio requiere un Pull Request (PR) antes de integrarse a main.
 
